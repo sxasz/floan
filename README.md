@@ -7,7 +7,7 @@ This repository contains a Solana program for executing flash loans.
 To install and deploy the program, run the following commands:
 
 ```sh
-git clone https://github.com/your-username/solana-flash-loan.git
+git clone https://github.com/your-username/floan.git
 cd solana-flash-loan
 chmod +x install.sh
 ./install.sh
