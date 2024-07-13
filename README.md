@@ -8,6 +8,6 @@ To install and deploy the program, run the following commands:
 
 ```sh
 git clone https://github.com/your-username/floan.git
-cd solana-flash-loan
+cd floan
 chmod +x install.sh
 ./install.sh
